@@ -1,5 +1,5 @@
 # Festman-Shopping-Dashboard
-# Project name : Hotel Booking Data Analysis
+# Project name : Hotel Shopping Data Analysis
 This is my FestMan Learning Hub Bootcamp Practice.
 
 ----
